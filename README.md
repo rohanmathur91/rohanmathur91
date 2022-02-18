@@ -1,7 +1,5 @@
 <h1>Hi 👋, I'm Rohan Mathur</h1>
-<h3>A passionate frontend developer.</h3>
-
-- 🌱 I’m currently learning **System Design**
+<h3>A passionate frontend developer and an aspiring full-stack developer.</h3>
 
 - 👨‍💻 See my portfolio at [rohanmathur.netlify.app](https://rohanmathur.netlify.app/)
 
