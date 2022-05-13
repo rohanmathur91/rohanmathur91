@@ -1,6 +1,8 @@
 <h1>Hi 👋, I'm Rohan Mathur</h1>
 <h3>A passionate frontend developer and an aspiring full-stack developer.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanmathur91&label=Profile%20views&color=0e75b6&style=flat" alt="rohanmathur91" /> </p>
+
 - 👨‍💻 See my portfolio at [rohanmathur.netlify.app](https://rohanmathur.netlify.app/)
 
 - 💬 Ask me about **JavaScript and Reactjs**
