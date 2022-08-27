@@ -15,7 +15,7 @@
 - Python
 
 #### Connect with me:
-- Mail: **mathurrohan04@gmail.com**
+- Email: **mathurrohan04@gmail.com**
 - LinkedIn: **[@rohanmathur91](https://linkedin.com/in/rohanmathur91)**
 - Twitter: **[@rohanmathur91](https://twitter.com/rohanmathur91)**
 - Leetcode: **[@rohanmathur91](https://www.leetcode.com/rohanmathur91)**
