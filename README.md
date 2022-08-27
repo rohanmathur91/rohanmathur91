@@ -19,4 +19,4 @@
 - LinkedIn: **[@rohanmathur91](https://linkedin.com/in/rohanmathur91)**
 - Twitter: **[@rohanmathur91](https://twitter.com/rohanmathur91)**
 - Leetcode: **[@rohanmathur91](https://www.leetcode.com/rohanmathur91)**
-- Hashnode: **[@rohanmathur](https://hashnode.com/@rohanmathur)**
+- Hashnode: **[@rohanmathur](https://rohanmathur.hashnode.dev/)**
