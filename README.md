@@ -1,8 +1,8 @@
 <h3>👋 Hey there, I'm Rohan.</h3>
 
 #### Work:
-- Software development engineer at **[Requestly (YC W22)](https://requestly.io/)**.
-- Previously - Associate software engineer at **[Innovaccer](https://innovaccer.com/)**.
+- Software Development Engineer at **[Requestly (YC W22)](https://requestly.io/)**.
+- Previously - Associate Software Engineer at **[Innovaccer](https://innovaccer.com/)**.
 
 #### Currently learning:
 - Web performance
