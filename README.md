@@ -1,20 +1,20 @@
 <h3>👋 Hey there, I'm Rohan.</h3>
 
-#### Work:
+#### About 🌎: 
+- I like to build stuff using react, and explore things indepth.
+- Currently I am learning web performance and frontend at scale.
+
+#### Work 🏗️:
 - Software Development Engineer at **[Requestly (YC W22)](https://requestly.io/)**.
 - Previously - Associate Software Engineer at **[Innovaccer](https://innovaccer.com/)**.
 
-#### Currently learning:
-- Web performance
-- Frontend at scale
-
-#### Ask me about:
+#### Ask me about 💬:
 - React
 - JavaScript
 - Frontend Development
 - Python
 
-#### Connect with me:
+#### Connect with me 🤝🏻:
 - Email: **mathurrohan04@gmail.com**
 - LinkedIn: **[@rohanmathur91](https://linkedin.com/in/rohanmathur91)**
 - Twitter: **[@rohanmathur91](https://twitter.com/rohanmathur91)**
