@@ -2,7 +2,7 @@
 
 #### About 🌎: 
 - I like to build stuff using **[react](https://reactjs.org/)**, and explore things in-depth.
-- Currently I am learning web performance and frontend at scale.
+- Currently I am learning testing and frontend at scale.
 
 #### Work 🏗️:
 - Software Development Engineer at **[Requestly (YC W22)](https://requestly.io/)**.
