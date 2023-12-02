@@ -1,7 +1,7 @@
 <h3>👋 Hey there, I'm Rohan.</h3>
 
 #### About 🌎: 
-- I like to build stuff using **[react](https://reactjs.org/)**, and explore things in-depth.
+- I build stuff using **[react](https://reactjs.org/)**, and explore things in-depth.
 - Currently I am learning system design and frontend at scale.
 
 #### Work 🏗️:
