@@ -1,18 +1,8 @@
-<h3>👋 Hey there, I'm Rohan.</h3>
-
-#### About 🌎: 
-- I build stuff using **[react](https://reactjs.org/)**, and explore things in-depth.
-- Currently I am learning system design and frontend at scale.
+<h3>👋 Hey there</h3>
 
 #### Work 🏗️:
 - Software Development Engineer at **[Requestly (YC W22)](https://requestly.io/)**.
 - Previously - Associate Software Engineer at **[Innovaccer](https://innovaccer.com/)**.
-
-#### Ask me about 💬:
-- React
-- JavaScript
-- Frontend Development
-- Python
 
 #### Connect with me 🤝🏻:
 - Email: **mathurrohan04@gmail.com**
